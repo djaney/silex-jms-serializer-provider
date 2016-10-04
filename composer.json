@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "silex/silex": "~1",
+        "silex/silex": "~1.0",
         "jms/serializer": "~1.0"
     },
     "require-dev": {
